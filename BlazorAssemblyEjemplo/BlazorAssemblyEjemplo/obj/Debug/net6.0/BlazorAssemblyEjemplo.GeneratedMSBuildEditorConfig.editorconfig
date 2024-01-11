@@ -1,0 +1,75 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorAssemblyEjemplo
+build_property.RootNamespace = BlazorAssemblyEjemplo
+build_property.ProjectDir = C:\Users\Rene\source\repos\BlazorAssemblyEjemplo\BlazorAssemblyEjemplo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Rene\source\repos\BlazorAssemblyEjemplo\BlazorAssemblyEjemplo
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Rene/source/repos/BlazorAssemblyEjemplo/BlazorAssemblyEjemplo/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rene/source/repos/BlazorAssemblyEjemplo/BlazorAssemblyEjemplo/Components/EmployeeCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFbXBsb3llZUNhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rene/source/repos/BlazorAssemblyEjemplo/BlazorAssemblyEjemplo/Components/ProfilePicture.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9maWxlUGljdHVyZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rene/source/repos/BlazorAssemblyEjemplo/BlazorAssemblyEjemplo/Components/QuickViewPopup.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xRdWlja1ZpZXdQb3B1cC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rene/source/repos/BlazorAssemblyEjemplo/BlazorAssemblyEjemplo/Components/Widgets/EmployeeCountWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXaWRnZXRzXEVtcGxveWVlQ291bnRXaWRnZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rene/source/repos/BlazorAssemblyEjemplo/BlazorAssemblyEjemplo/Components/Widgets/InboxWidget.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXaWRnZXRzXEluYm94V2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rene/source/repos/BlazorAssemblyEjemplo/BlazorAssemblyEjemplo/Pages/EmployeeDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVEZXRhaWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rene/source/repos/BlazorAssemblyEjemplo/BlazorAssemblyEjemplo/Pages/EmployeeOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVPdmVydmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rene/source/repos/BlazorAssemblyEjemplo/BlazorAssemblyEjemplo/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rene/source/repos/BlazorAssemblyEjemplo/BlazorAssemblyEjemplo/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rene/source/repos/BlazorAssemblyEjemplo/BlazorAssemblyEjemplo/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rene/source/repos/BlazorAssemblyEjemplo/BlazorAssemblyEjemplo/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-gnirgefkat
+
+[C:/Users/Rene/source/repos/BlazorAssemblyEjemplo/BlazorAssemblyEjemplo/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-p8ia6t5tu4
